@@ -1,0 +1,16 @@
+---
+title: "Oh Deer! Impacts of Deers on Forest Ecosystem"
+author: "Priscilla Chen"
+date: "2024-12-15"
+categories: [R, statistic modelling, analysis]
+image: "image.png"
+---
+
+
+::: {.iframe-container}
+<iframe src="https://cpril.github.io/Deer_Exclosure_Statistic_Modelling/" width="100%" height="550px" style="border:none;"></iframe>
+:::
+
+
+View [Github Repository](https://github.com/Cpril/Deer_Exclosure_Statistic_Modelling)
+

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "MyPersonalPortfolio",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 3, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Experience & Education\n\n\n\n\n\n\nresume\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization\n\n\n\n\n\n\nR\n\n\nvisualization\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 8, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nOh Deer! Impacts of Deers on Forest Ecosystem\n\n\n\n\n\n\nR\n\n\nstatistic modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 15, 2024\n\n\nPriscilla Chen\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -16,15 +16,57 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this blog"
+    "text": "I’m a student studying Data science and Psychology at Calvin University. Check out my skills and work experience at (). I’m currently looking for part-time work with data analysis and machine learning. If you are interested, please connect me at jc253@calvin.edu."
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Experience & Education",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "View Resume"
+  },
+  {
+    "objectID": "posts/Deer_Exclosure/index.html",
+    "href": "posts/Deer_Exclosure/index.html",
+    "title": "Oh Deer! Impacts of Deers on Forest Ecosystem",
+    "section": "",
+    "text": "View Github Repository"
+  },
+  {
+    "objectID": "posts/data_visualization/index.html",
+    "href": "posts/data_visualization/index.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "View Github Repository"
+  },
+  {
+    "objectID": "posts/welcome/index.html#education",
+    "href": "posts/welcome/index.html#education",
+    "title": "Experience & Education",
+    "section": "Education",
+    "text": "Education\nData Science, BS; Psychology Major (GPA: 3.98) at Calvin University\nRelated Coursework:\n\nDATA304: Visualizing Data and Models\nSTAT341: Computational Bayesian Analysis\nSTAT245: Applied Data Analysis\nCS212:Data Stucture & Algorithms\nDATA202: Predictive Analysis"
+  },
+  {
+    "objectID": "posts/welcome/index.html#work-experience",
+    "href": "posts/welcome/index.html#work-experience",
+    "title": "Experience & Education",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nSummer Research Assistant (Jun 2025 - Present)\n\n\n\nWork with professor in offering statistic conscultant for other research teams.\nLead data workshop, presenting strategies in Data wrangling and modelling\n\n\n\nPeer Support Tutor (Jan 2025 - Present)\n\n\n\nMeet with students’ one-on-one every week for academic tutoring, subjects include Statistics, Computer Science, and Psychology.\n\n\n\n\nMonitor students’ progress and plan academic goals accordingly\n\n\n\nComputer Science Grader (Jan 2025 - Present)\n\n\n\nGrading students’ lab programs using python.\n\n\n\nOffice Assistant at Biology & Chemistry Department (Sep 2023 - Present)\n\n\n\nServe 34 faculty members and more than 300 students.\n\n\n\n\nWork closely with Department Administration and Chairs, facilitate in event planning, data management, and marketing.\n\n\n\n\nData collection, organization, update, and report. Some datasets include: Scholarships and historical scholarship reciepiants dataset, senior students graduation dataset, seminar schedules."
+  },
+  {
+    "objectID": "posts/welcome/index.html#skills",
+    "href": "posts/welcome/index.html#skills",
+    "title": "Experience & Education",
+    "section": "Skills",
+    "text": "Skills\nI can do:\n\nData Wrangling: joinning datasets, filter, cleaning, etc.\nVisualization: plotly, seaborn, ggplot2, vegalite\nModelling: ML with scikit-learn, Bayesian statistical model, frequentist approach model, model assessments\n\nProgramming Languages: R, Python, C#, C++, SQL\nTools: Github, Rstudio, Jupyter Notebooks, Google Colab, MySQL"
+  },
+  {
+    "objectID": "posts/welcome/index.html#contact-info",
+    "href": "posts/welcome/index.html#contact-info",
+    "title": "Experience & Education",
+    "section": "Contact Info",
+    "text": "Contact Info\nIf you’d have a job opportunity, feel free to contact me at jc253@calvin.edu."
   }
 ]

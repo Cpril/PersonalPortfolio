@@ -1,12 +1,75 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Experience & Education"
+author: "Priscilla Chen"
 date: "2025-03-31"
-categories: [news]
+format:
+  html:
+    toc: true
+categories: [resume]
+image: "image.png"
 ---
 
-This is the first post in a Quarto blog. Welcome!
+View Resume
 
-![](thumbnail.jpg)
+## Skills 
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+**I can do:** 
+
+-   Data Wrangling: joinning datasets, filter, cleaning, etc.
+-   Visualization: plotly, seaborn, ggplot2, vegalite
+-   Modelling: ML with scikit-learn, Bayesian statistical model, frequentist approach model, model assessments 
+
+**Programming Languages**: R, Python, C#, C++, SQL
+
+**Tools:** Github, Rstudio, Jupyter Notebooks, Google Colab, MySQL
+
+
+## Work Experience
+
+> #### Summer Research Assistant (Jun 2025 - Present)
+
+> - Work with professor in offering statistic conscultant for other research teams. 
+> - Lead data workshop, presenting strategies in Data wrangling and modelling
+
+> #### Peer Support Tutor (Jan 2025 - Present)
+
+> - Meet with students' one-on-one every week for academic tutoring, subjects include Statistics, Computer Science, and Psychology.
+
+> - Monitor students' progress and plan academic goals accordingly
+
+> #### Computer Science Grader (Jan 2025 - Present)
+
+> - Grading students' lab programs using **python**. 
+
+> #### Office Assistant at Biology & Chemistry Department (Sep 2023 - Present)
+
+> - Serve 34 faculty members and more than 300 students. 
+
+> - Work closely with Department Administration and Chairs, facilitate in event planning, data management, and marketing. 
+
+> - Data collection, organization, update, and report. Some datasets include: Scholarships and historical scholarship reciepiants dataset, senior students graduation dataset, seminar schedules. 
+
+## Education
+
+Data Science, BS; Psychology Major (GPA: 3.98) at Calvin University
+
+Related Coursework: 
+
+- DATA304: Visualizing Data and Models
+
+- STAT341: Computational Bayesian Analysis
+
+- STAT245: Applied Data Analysis
+
+- CS212:Data Stucture & Algorithms
+
+- DATA202: Predictive Analysis
+
+## Contact Info
+
+If you'd have a job opportunity, feel free to contact me at jc253@calvin.edu. 
+
+
+
+
+
