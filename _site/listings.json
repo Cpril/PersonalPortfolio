@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Currency_exchange/index.html",
       "/posts/welcome/index.html",
       "/posts/data_visualization/index.html",
       "/posts/Deer_Exclosure/index.html"

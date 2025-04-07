@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "MyPersonalPortfolio",
     "section": "",
-    "text": "Experience & Education\n\n\n\n\n\n\nresume\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization\n\n\n\n\n\n\nR\n\n\nvisualization\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 8, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nOh Deer! Impacts of Deers on Forest Ecosystem\n\n\n\n\n\n\nR\n\n\nstatistic modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 15, 2024\n\n\nPriscilla Chen\n\n\n\n\n\n\nNo matching items"
+    "text": "Currency Exchange Rate Modelling with Bayes\n\n\n\n\n\n\nR\n\n\nstatistical modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 7, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nExperience & Education\n\n\n\n\n\n\nresume\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization\n\n\n\n\n\n\nR\n\n\nvisualization\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 8, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nOh Deer! Impacts of Deers on Forest Ecosystem\n\n\n\n\n\n\nR\n\n\nstatistic modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 15, 2024\n\n\nPriscilla Chen\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -68,5 +68,12 @@
     "title": "Experience & Education",
     "section": "Contact Info",
     "text": "Contact Info\nIf you’d have a job opportunity, feel free to contact me at jc253@calvin.edu."
+  },
+  {
+    "objectID": "posts/Currency_exchange/index.html",
+    "href": "posts/Currency_exchange/index.html",
+    "title": "Currency Exchange Rate Modelling with Bayes",
+    "section": "",
+    "text": "View Github Repository"
   }
 ]

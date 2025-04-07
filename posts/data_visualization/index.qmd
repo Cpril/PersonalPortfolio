@@ -6,8 +6,10 @@ categories: [R, visualization, analysis]
 image: "image.jpg"
 ---
 
-::: {.iframe-container}
-<iframe src="https://cpril.github.io/DATA304/Final_Portfolio.html" width="100%" height="550px" style="border:none;"></iframe>
+::: iframe-container
+<iframe src="https://cpril.github.io/DATA304/Final_Portfolio.html" width="100%" height="550px" style="border:none;">
+
+</iframe>
 :::
 
 View [Github Repository](https://github.com/Cpril/DATA304)
