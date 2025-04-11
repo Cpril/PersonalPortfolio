@@ -12,4 +12,4 @@ about:
       href: https://github.com/Cpril
 ---
 
-I'm a student studying *Data science* and *Psychology* at Calvin University. Check out my skills and work experience at (). I'm currently looking for part-time work with data analysis and machine learning. If you are interested, please connect me at jc253@calvin.edu. 
+I'm a student studying *Data science* and *Psychology* at Calvin University. Check out my skills and work experience at \[Skills, Experience & Education\](Experience & Education – MyPersonalPortfolio). I'm currently looking for part-time work with data analysis and machine learning. If you are interested, please connect me at jc253\@calvin.edu.

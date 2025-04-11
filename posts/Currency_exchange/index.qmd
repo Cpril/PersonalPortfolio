@@ -7,11 +7,11 @@ categories: [R, statistical modelling, analysis]
 ---
 
 ::: iframe-container
-<iframe src="https://currencyexchangewbayesian.netlify.app/" width="100%" height="550px" style="border:none;">
+<iframe src="https://currencyexchangewbayesian.netlify.app/" width="900px" height="550px" style="border:none;">
 
 </iframe>
 :::
 
-View [Github Repository](https://github.com/Cpril/Currency-Exchange-Rate-with-Bayesian-Statistics)
-
 In Progress
+
+View [Github Repository](https://github.com/Cpril/Currency-Exchange-Rate-with-Bayesian-Statistics)

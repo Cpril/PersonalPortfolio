@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "MyPersonalPortfolio",
     "section": "",
-    "text": "Currency Exchange Rate Modelling with Bayes\n\n\n\n\n\n\nR\n\n\nstatistical modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 7, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nExperience & Education\n\n\n\n\n\n\nresume\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization\n\n\n\n\n\n\nR\n\n\nvisualization\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 8, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nOh Deer! Impacts of Deers on Forest Ecosystem\n\n\n\n\n\n\nR\n\n\nstatistic modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 15, 2024\n\n\nPriscilla Chen\n\n\n\n\n\n\nNo matching items"
+    "text": "Currency Exchange Rate Modelling with Bayes\n\n\n\n\n\n\nR\n\n\nstatistical modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 7, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nSkills & Experience\n\n\n\n\n\n\nresume\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization\n\n\n\n\n\n\nR\n\n\nvisualization\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 8, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nOh Deer! Impacts of Deers on Forest Ecosystem\n\n\n\n\n\n\nR\n\n\nstatistical modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 15, 2024\n\n\nPriscilla Chen\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -23,7 +23,7 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Experience & Education",
+    "title": "Skills & Experience",
     "section": "",
     "text": "View Resume"
   },
@@ -44,28 +44,28 @@
   {
     "objectID": "posts/welcome/index.html#education",
     "href": "posts/welcome/index.html#education",
-    "title": "Experience & Education",
+    "title": "Skills & Experience",
     "section": "Education",
     "text": "Education\nData Science, BS; Psychology Major (GPA: 3.98) at Calvin University\nRelated Coursework:\n\nDATA304: Visualizing Data and Models\nSTAT341: Computational Bayesian Analysis\nSTAT245: Applied Data Analysis\nCS212:Data Stucture & Algorithms\nDATA202: Predictive Analysis"
   },
   {
     "objectID": "posts/welcome/index.html#work-experience",
     "href": "posts/welcome/index.html#work-experience",
-    "title": "Experience & Education",
+    "title": "Skills & Experience",
     "section": "Work Experience",
     "text": "Work Experience\n\nSummer Research Assistant (Jun 2025 - Present)\n\n\n\nWork with professor in offering statistic conscultant for other research teams.\nLead data workshop, presenting strategies in Data wrangling and modelling\n\n\n\nPeer Support Tutor (Jan 2025 - Present)\n\n\n\nMeet with students’ one-on-one every week for academic tutoring, subjects include Statistics, Computer Science, and Psychology.\n\n\n\n\nMonitor students’ progress and plan academic goals accordingly\n\n\n\nComputer Science Grader (Jan 2025 - Present)\n\n\n\nGrading students’ lab programs using python.\n\n\n\nOffice Assistant at Biology & Chemistry Department (Sep 2023 - Present)\n\n\n\nServe 34 faculty members and more than 300 students.\n\n\n\n\nWork closely with Department Administration and Chairs, facilitate in event planning, data management, and marketing.\n\n\n\n\nData collection, organization, update, and report. Some datasets include: Scholarships and historical scholarship reciepiants dataset, senior students graduation dataset, seminar schedules."
   },
   {
     "objectID": "posts/welcome/index.html#skills",
     "href": "posts/welcome/index.html#skills",
-    "title": "Experience & Education",
+    "title": "Skills & Experience",
     "section": "Skills",
     "text": "Skills\nI can do:\n\nData Wrangling: joinning datasets, filter, cleaning, etc.\nVisualization: plotly, seaborn, ggplot2, vegalite\nModelling: ML with scikit-learn, Bayesian statistical model, frequentist approach model, model assessments\n\nProgramming Languages: R, Python, C#, C++, SQL\nTools: Github, Rstudio, Jupyter Notebooks, Google Colab, MySQL"
   },
   {
     "objectID": "posts/welcome/index.html#contact-info",
     "href": "posts/welcome/index.html#contact-info",
-    "title": "Experience & Education",
+    "title": "Skills & Experience",
     "section": "Contact Info",
     "text": "Contact Info\nIf you’d have a job opportunity, feel free to contact me at jc253@calvin.edu."
   },
@@ -74,6 +74,6 @@
     "href": "posts/Currency_exchange/index.html",
     "title": "Currency Exchange Rate Modelling with Bayes",
     "section": "",
-    "text": "View Github Repository"
+    "text": "View Github Repository\nIn Progress"
   }
 ]
