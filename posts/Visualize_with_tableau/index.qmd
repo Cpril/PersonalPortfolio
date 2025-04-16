@@ -1,0 +1,16 @@
+---
+title: "Visualize with Tableau"
+author: "Priscilla Chen"
+date: "2025-04-15"
+categories: [visualization, tableau]
+image: "image.png"
+---
+
+
+::: iframe-container
+<iframe src="https://public.tableau.com/views/ResidencyVisualization/CitizenshipResidency?:embed=y&:display_count=yes&:showVizHome=no" width="900px" height="620px" style="border:none;">
+
+</iframe>
+:::
+
+Tasked with presenting demographic trends, I created visualizations of student and faculty data by citizenship, race, gender, and residency.

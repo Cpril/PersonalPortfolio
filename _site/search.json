@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "MyPersonalPortfolio",
     "section": "",
-    "text": "Currency Exchange Rate Modelling with Bayes\n\n\n\n\n\n\nR\n\n\nstatistical modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 7, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nSkills & Experience\n\n\n\n\n\n\nresume\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization\n\n\n\n\n\n\nR\n\n\nvisualization\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 8, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nOh Deer! Impacts of Deers on Forest Ecosystem\n\n\n\n\n\n\nR\n\n\nstatistical modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 15, 2024\n\n\nPriscilla Chen\n\n\n\n\n\n\nNo matching items"
+    "text": "Visualize with Tableau\n\n\n\n\n\n\nvisualization\n\n\ntableau\n\n\n\n\n\n\n\n\n\nApr 15, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nCurrency Exchange Rate Modelling with Bayes\n\n\n\n\n\n\nR\n\n\nstatistical modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 7, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nSkills & Experience\n\n\n\n\n\n\nresume\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization with R\n\n\n\n\n\n\nR\n\n\nvisualization\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 8, 2025\n\n\nPriscilla Chen\n\n\n\n\n\n\n\n\n\n\n\n\nOh Deer! Impacts of Deers on Forest Ecosystem\n\n\n\n\n\n\nR\n\n\nstatistical modelling\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 15, 2024\n\n\nPriscilla Chen\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m a student studying Data science and Psychology at Calvin University. Check out my skills and work experience at (). I’m currently looking for part-time work with data analysis and machine learning. If you are interested, please connect me at jc253@calvin.edu."
+    "text": "I’m a student studying Data science and Psychology at Calvin University. Check out my skills and work experience at [Skills, Experience & Education](Experience & Education – MyPersonalPortfolio). I’m currently looking for part-time work with data analysis and machine learning. If you are interested, please connect me at jc253@calvin.edu."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -32,14 +32,14 @@
     "href": "posts/Deer_Exclosure/index.html",
     "title": "Oh Deer! Impacts of Deers on Forest Ecosystem",
     "section": "",
-    "text": "View Github Repository"
+    "text": "Worked on a team supporting biological research, project models deer effect on local plant ecosystems.\nView Github Repository"
   },
   {
     "objectID": "posts/data_visualization/index.html",
     "href": "posts/data_visualization/index.html",
-    "title": "Data Visualization",
+    "title": "Data Visualization with R",
     "section": "",
-    "text": "View Github Repository"
+    "text": "explores data visualization application in Business, Neuroscience, Genetics, and Social Science, using Vega-lite and R which offers finer control.\nView Github Repository"
   },
   {
     "objectID": "posts/welcome/index.html#education",
@@ -74,6 +74,13 @@
     "href": "posts/Currency_exchange/index.html",
     "title": "Currency Exchange Rate Modelling with Bayes",
     "section": "",
-    "text": "View Github Repository\nIn Progress"
+    "text": "In Progress\nView Github Repository"
+  },
+  {
+    "objectID": "posts/Visualize_with_tableau/index.html",
+    "href": "posts/Visualize_with_tableau/index.html",
+    "title": "Visualize with Tableau",
+    "section": "",
+    "text": "Tasked with presenting demographic trends, I created visualizations of student and faculty data by citizenship, race, gender, and residency."
   }
 ]

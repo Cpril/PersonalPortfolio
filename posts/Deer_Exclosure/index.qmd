@@ -12,4 +12,6 @@ image: "image.png"
 </iframe>
 :::
 
+Worked on a team supporting biological research, project models deer effect on local plant ecosystems.
+
 View [Github Repository](https://github.com/Cpril/Deer_Exclosure_Statistic_Modelling)

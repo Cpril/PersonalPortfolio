@@ -1,5 +1,5 @@
 ---
-title: "Data Visualization"
+title: "Data Visualization with R"
 author: "Priscilla Chen"
 date: "2025-02-08"
 categories: [R, visualization, analysis]
@@ -11,5 +11,7 @@ image: "image.jpg"
 
 </iframe>
 :::
+
+explores data visualization application in Business, Neuroscience, Genetics, and Social Science, using Vega-lite and R which offers finer control.
 
 View [Github Repository](https://github.com/Cpril/DATA304)
