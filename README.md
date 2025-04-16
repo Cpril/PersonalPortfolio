@@ -1,4 +1,4 @@
-# Hi, Welcome to my [Project Portfolio] (https://chenportfolio.netlify.app/)
+# Hi, Welcome to my [Project Portfolio](https://chenportfolio.netlify.app/)
 
 You will find some fun projects I have done from data visualization to statistical analysis, from personal projects for fun to industry-related team projects. 
 
